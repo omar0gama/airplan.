@@ -1,0 +1,40 @@
+#plan1{background-image: url(%D8%B7%D9%8A%D8%A7%D8%B1%D9%87.jpg );
+
+    background-repeat: no-repeat;
+     background-position: center;
+    background-size: cover;
+    height:800px;
+    
+    text-align: center;
+    
+}
+
+
+#plane3{ background-color: blue;
+    padding: 50px;
+    
+
+}
+
+    
+
+#map {
+    height: 800px;
+    width:1000px;
+    margin: 10px auto;
+    
+    background-color: cyan;
+}
+
+    
+    
+.123{
+    padding: 35px;
+    
+    
+    
+}
+
+
+
+
